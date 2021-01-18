@@ -13,3 +13,5 @@ Therefore, it will result in a better stock and human resource management leadin
 The methodology used will be the CRISP-DM methodology, developed at the end of the 90’s and still widely used. 
 It consists of six steps: Business understanding, Data understanding, Data preparation, Modelling, Evaluation and Deployment. 
 The goal of this thesis is not only developing a theorical model but also to test and implement it in a real business environment.
+
+In this work, we will explore several models, optimizers, etc. 
